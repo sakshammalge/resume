@@ -1,0 +1,54 @@
+{
+	"basics": {
+		"name": "Saksham Nishant Malge",
+		"label": "Student",
+		"picture": "https://github.com/sakshammalge/resume/blob/main/photo.jpeg",
+		"email": "2019kucp1121@iiitkota.ac.in",
+		"phone": "8872389765",
+		"summary": "A B-Tech Computer Science student at Indian Institute of Information technology, Kota(India).",
+		"location": {
+			"address": "Sector 68, SAS Nagar",
+			"postalCode": "160062",
+			"city": "Mohali",
+			"countryCode": "India",
+			"region": "Punjab"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "sakshammalge",
+				"url": "https://github.com/sakshammalge"
+			},
+			{
+				"network": "linkedin",
+				"username": "Saksham Nishant Malge",
+				"url": "https://www.linkedin.com/in/saksham-nishant-malge-344954190/"
+			}
+		]
+	},
+	"project": [{
+		"name": "Face Recognition using KNN",
+		"github url": "https://github.com/sakshammalge/AI-Mafia---Machine-Learning/tree/main/Face-Recognition",
+		"summary": "Applied K Nearest Neighbour classification algorithm in face recognition using opencv and HaarCascades.",
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-02-08",
+		"endDate": "2023",
+		"gpa": "8.27  (till 4th sem)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [
+    {
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "MySQL" , "C/C++", "Python", "Numpy", "Pandas"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Badminton", "Table Tennis"]
+	}],
+}
