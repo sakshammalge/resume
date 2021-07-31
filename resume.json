@@ -13,8 +13,7 @@
 			"countryCode": "India",
 			"region": "Punjab"
 		},
-		"profiles": [
-			{
+		"profiles": [{
 				"network": "Github",
 				"username": "sakshammalge",
 				"url": "https://github.com/sakshammalge"
@@ -29,7 +28,7 @@
 	"project": [{
 		"name": "Face Recognition using KNN",
 		"github url": "https://github.com/sakshammalge/AI-Mafia---Machine-Learning/tree/main/Face-Recognition",
-		"summary": "Applied K Nearest Neighbour classification algorithm in face recognition using opencv and HaarCascades.",
+		"summary": "Applied K Nearest Neighbour classification algorithm in face recognition using opencv and HaarCascades."
 	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
@@ -42,13 +41,12 @@
 			"Computer Science & Engineering"
 		]
 	}],
-	"skills": [
-    {
+	"skills": [{
 		"level": "Intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "MySQL" , "C/C++", "Python", "Numpy", "Pandas"]
+		"keywords": ["HTML", "CSS", "Javascript", "MySQL", "C/C++", "Python", "Numpy", "Pandas"]
 	}],
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["Badminton", "Table Tennis"]
-	}],
+	}]
 }
